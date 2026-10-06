@@ -1,0 +1,6 @@
+{
+  "name": "Kelajak soati — Oiladan o‘rganganim: Kasblar",
+  "description": "Maktabgacha ta'lim uchun 6-mavzu bo'yicha interaktiv darslik platformasi: kasblar va buyumlar",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
